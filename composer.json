@@ -1,0 +1,12 @@
+{
+    "name": "tiago/test-module-atom6",
+    "description": "",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require": {
+        "ext-json": "*",
+        "ext-openssl": "*",
+        "ext-curl": "*"
+    }
+}
